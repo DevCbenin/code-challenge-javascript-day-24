@@ -1,11 +1,13 @@
 
-const square = () => {
-  throw new Error("Remove this statement and implement this function");
-};
+const abilityModifier = c => {
+ //type code here
+}
 
-const total = () => {
-  throw new Error("Remove this statement and implement this function");
-};
+const dice = () => Math.floor(Math.random() * 6) + 1
+
+const Character {
+  //type code here
+}
 
 
-module.exports = {square, total}
+module.exports = {abilityModifier, Character}
